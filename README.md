@@ -23,4 +23,8 @@ withdrawal patterns, deposit activity, and balance behavior.
 - High-value transactions were identified
 
 ## Tableau Dashboard
-(Add Tableau Public link here)
+(https://public.tableau.com/app/profile/sutirtha.giri/viz/banking_transaction_analysis/Dashboard1?publish=yes)
+
+## Dashboard Preview
+![Dashboard](https://github.com/sutirtha44g/Banking_Transaction_Analysis/blob/main/Screenshot%202026-05-28%20132132.png)
+
